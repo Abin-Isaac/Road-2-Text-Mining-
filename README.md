@@ -1,11 +1,11 @@
 # Road-2-Text-Mining-
-Library used - Natural Language Tool Kit
+## Library used - Natural Language Tool Kit
 
-Data Set - The wiki corpus contains the full text of Wikipedia, and it contains 1.9 billion words in more than 4.4 million articles. We have used a subset of that "Wiki_corpus"
+## Data Set - Wiki Corpus
+The wiki corpus contains the full text of Wikipedia, and it contains 1.9 billion words in more than 4.4 million articles. We have used a subset of that "Wiki_corpus"
 
 
-
-Objective:
+## Objective:
 
 • Implement different types of tokenizers
 
